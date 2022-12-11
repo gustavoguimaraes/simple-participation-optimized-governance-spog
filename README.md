@@ -22,8 +22,10 @@ To build the project
  forge build
 ```
 
-Todo:
+### Todos:
 
 [] Complete tests
+
 [] Add GRIEF mechanism
+
 [] add BUYOUT
