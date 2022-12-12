@@ -25,8 +25,10 @@ To build the project
 
 ### Todos:
 
-[] Complete tests
+[ ] Complete tests
 
-[] Add GRIEF mechanism
+[ ] Add GRIEF mechanism
 
-[] add BUYOUT
+[ ] Add BUYOUT function
+
+[ ] Create Mock Auction Contract to Simulate SELL mechanism
